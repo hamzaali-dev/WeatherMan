@@ -10,12 +10,12 @@ puts h[:h1][:h2]
 
 for line in file.readlines()
   date = line.split(',')
-  
+
    for i in date
 
 
 end
-
+#updates will be added here
 
 
 
